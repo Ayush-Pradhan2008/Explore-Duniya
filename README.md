@@ -1,2 +1,4 @@
 # Explore-Duniya
-A Tour Package Booking website Project name "Explore Duniya" made using python and MySQL which i made in 12th Grade
+A Tour Package Booking website Project name "Explore Duniya" with a confirmation E-mail system made using python and MySQL which i made in 12th Grade
+
+This Project contains basic looping,some module defined functions like smtp for a confirmation mail;tkinter for user interface;MySQL connector to connect it to database operations, also contains exception handling
